@@ -15,3 +15,4 @@ Somply click the link to the live demo and use the arrow keys to control the mov
 This project is licensed under the MIT License
 
 ## Live Demo
+https://dejasper1.github.io/Classic-Arcade-Game-Clone/

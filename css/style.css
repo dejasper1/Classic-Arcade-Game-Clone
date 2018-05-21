@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.button {
+    margin: auto;
+}
+
+.modal-card-title {
+font-size: 32px;    
+text-transform: uppercase;
+}
+
+.modal-card-body {
+    font-size: 24px;
+}

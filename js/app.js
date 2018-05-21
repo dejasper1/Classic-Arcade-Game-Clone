@@ -91,9 +91,7 @@ class Stats {
             heartPosition -= 30;
         }
     }
-
 }
-
 
 // enemies array
 const allEnemies = [];
@@ -104,9 +102,9 @@ enemyLocation.forEach((locationY) => {
     enemy = new Enemy(0, locationY, 200);
     allEnemies.push(enemy);
 });
+
 // instantiate player object
 const player = new Player(202, 400);
-
 // instantiate stats object
 const gameStats = new Stats(470, 05);
 
@@ -119,14 +117,11 @@ document.addEventListener('keyup', function (e) {
         39: 'right',
         40: 'down'
     };
-
     // call the handleInput method on the player object 
     player.handleInput(allowedKeys[e.keyCode]);
 });
 
-
 // modal display
-
 function displayModal() {
     const modal = document.querySelector('.modal');
     const canvas = document.querySelector('canvas');

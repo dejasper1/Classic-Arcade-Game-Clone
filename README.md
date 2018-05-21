@@ -6,7 +6,7 @@ This is a game project inspired by the classic Frogger game. The gameplay consis
 The visual assets and game loop engine (found in the engine.js file) were provided by Udacity.  
 
 ## Instructions 
-Somply click the link to the live demo and use the arrow keys to control the movement of the game character. 
+Simply click the link to the live demo and use the arrow keys to control the movement of the game character. 
 
 ## Built With 
 * [Bulma](https://bulma.io/) - The CSS framework used for the modal
